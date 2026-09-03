@@ -26,7 +26,7 @@ The installation follows the original [VMamba](https://github.com/MzeroMiko/VMam
 
 
 ```bash
-git clone https://github.com/Shirley06Chen/UCMamba_official.git
+git clone https://github.com/mm-air/UCMamba.git
 cd UCMamba
 
 conda create -n ucmamba
